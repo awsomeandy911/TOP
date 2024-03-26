@@ -1,3 +1,8 @@
 .odd-number{
     background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.number3{
+    font-size: 24px;
 }
